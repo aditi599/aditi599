@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Parashar</h1>
 
-<h3 align="center">Data Analyst | Python Programmer</h3>
+<h3 align="center">Data Analyst | Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi599&label=Profile%20views&color=0e75b6&style=flat" alt="aditi599" /> </p>
 
